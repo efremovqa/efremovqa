@@ -36,28 +36,27 @@ QA Engineer с опытом тестирования веб-приложений
 
 ---
 
-## Навыки и стек инструментов:
+## Навыки и стек инструментов
 
-| Область | Инструменты / Технологии |
-|_---|_---|
-| Тестирование | Functional Testing, Regression Testing, Smoke Testing, API Testing, Exploratory Testing |
-| API | Postman, SoapUI, REST API, JSON, HTTP |
-| Веб | Chrome DevTools, Network Analysis, Request/Response |
-| БД | MySQL, PostgreSQL, MongoDB, DBeaver, SQL, CRUD |
-| Управление тестами | Jira, TestIT, Qase |
-| Процессы | Agile, Scrum, SDLC, STLC |
-| Разработка | Git, Bash, VS Code, Docker, Jenkins |
+| Область            | Инструменты / Технологии                                                                |
+| :----------------- | :-------------------------------------------------------------------------------------- |
+| Тестирование       | Functional Testing, Regression Testing, Smoke Testing, API Testing, Exploratory Testing |
+| API                | Postman, SoapUI, REST API, JSON, HTTP                                                   |
+| Веб                | Chrome DevTools, Network Analysis, Request/Response                                     |
+| БД                 | MySQL, PostgreSQL, MongoDB, DBeaver, SQL, CRUD                                          |
+| Управление тестами | Jira, TestIT, Qase                                                                      |
+| Процессы           | Agile, Scrum, SDLC, STLC                                                                |
+| Разработка         | Git, Bash, VS Code, Docker, Jenkins                                                     |
 
 ---
 
-## Образование и повышение квалификации:
+## Образование и повышение квалификации
 
-- Высшее образование - 2015-2020;
-  В процессе работы прошел профильные курсы для получения и закрепления практических навыков в QA:
+- Высшее образование - 2015-2020; <br> В процессе работы прошел профильные курсы для получения и закрепления практических навыков в QA:
 - stepik.org/С нуля до Junior Manual QA инженера (Сергей Яушев);
 - stepik.org/Тестирование ПО с нуля. Уровень PRO (Артем Русов).
 
-## Тестовые артефакты, собранные в процессе прохождения курсов:
+## Тестовые артефакты, собранные в процессе прохождения курсов
 
 - [Работа с документацией](https://github.com/efremovqa/Test-docs) – проведение анализа требований и разработка тестовой документации;
 - [Тестирование API](https://github.com/efremovqa/API-testing) – тестирование REST и SOAP API с использованием Postman;
