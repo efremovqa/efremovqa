@@ -9,7 +9,7 @@
 QA Engineer с опытом тестирования веб-приложений в Agile-команде. Обожаю докапываться до сути багов и следить за тем, чтобы продукт становился лучше с каждым релизом. Специализируюсь на функциональном и регрессионном тестировании, тестировании REST API и работе с тестовой документацией. Понимаю SDLC/STLC, умею анализировать требования и выявлять дефекты на ранних этапах.
 Моя цель – обеспечивать высокое качество продукта через внимательность к деталям и структурированный подход к проверкам.
 
-- 📫 Связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efremovegor195@gmail.com)
+📫 Связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efremovegor195@gmail.com)
   [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/efremov_es)
 
 ---
